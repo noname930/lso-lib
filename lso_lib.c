@@ -8,6 +8,7 @@
 #include <errno.h> /*perror*/
 #include "lso_lib.h"
 #define BUFFDIM 1000
+/*mamma*/
 
 /*==========================APERTURA DEL FILE=====================*/
 int aperturafile(char *nomefile,int type, int R_or_W)
